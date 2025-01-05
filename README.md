@@ -1,1 +1,0 @@
-# microsoft-developer-model-db-ef-core
